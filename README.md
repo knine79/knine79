@@ -3,8 +3,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=knine79)](https://github.com/knine79/github-readme-stats)
 
-- 🔭 I’m currently working on CouponBox when I'm free.
-- 🌱 I’m currently landing softly on new work.
+- 🔭 I’m currently working for WantedLab, inc.
 - 🤔 I’m interested in Mobile Application Architecture.
  
 <!--
