@@ -10,6 +10,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=knine79&count_private=true&show_icons=true&theme=radical)](https://github.com/knine79/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knine79&count_private=true&show_icons=true&theme=radical)](https://github.com/knine79/github-readme-stats)
+
 - 👨🏻‍💻 I previously worked for Ubivelox, Samsung SDS, Timon, Kakao Enterprise.
 - 🏢 I’m currently working for WantedLab, inc.
 - 🧐 I’m interested in Mobile Application Architecture.
