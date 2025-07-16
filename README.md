@@ -1,16 +1,14 @@
 ### Hi there 👋 
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-plastic&logo=Swift&logoColor=white)
 ![iOS/macOS](https://img.shields.io/badge/-iOS/macOS-000000?style=flat-plastic&logo=Apple&logoColor=white)
-
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-plastic&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-plastic&logo=Slack&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-plastic&logo=Github&logoColor=white)
+![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fknine79?color=green&label=hits&size=small)
 
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fknine79?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=knine79&count_private=true&show_icons=true&theme=radical)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=knine79&count_private=true&show_icons=true&theme=radical)](https://github.com/knine79/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knine79&count_private=true&show_icons=true&theme=radical)](https://github.com/knine79/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knine79&count_private=true&show_icons=true&theme=radical)
 
 - 👨🏻‍💻 I previously worked for Ubivelox, Samsung SDS, Timon, Kakao Enterprise.
 - 🏢 I’m currently working for WantedLab, inc.
