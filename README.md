@@ -6,7 +6,9 @@
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-plastic&logo=Github&logoColor=white)
 ![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fknine79?color=green&label=hits&size=small)
 
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=knine79&count_private=true&show_icons=true&theme=radical)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knine79&count_private=true&show_icons=true&theme=radical)
 
